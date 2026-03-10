@@ -41,7 +41,7 @@ Add the following two tools to your projects:
 
   * [Sonarqube](https://sonarcloud.io)
     - After doing the exercises you should already have done this.
-  * [Code Climate](https://codeclimate.com/)
+  * [Codacy](https://www.codacy.com)
 
 The task should be easy and quick to perform.
 You can login via GitHub to the two tools and just select the corresponding repository/-ies.
