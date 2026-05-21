@@ -10,8 +10,8 @@ GROUP_REPOS = [
         "group b",
         "Carl ⏰",
         ["https://github.com/DevOps-Group-B/MiniTwit"],
-        "http://165.227.170.149",
-        "http://165.227.170.149",
+        "https://minitwit.tech",
+        "https://minitwit.tech",
     ],
     [
         "group c",
@@ -45,8 +45,8 @@ GROUP_REPOS = [
         "group g",
         "GruppeOG",
         ["https://github.com/Joakim-David/GruppeOG"],
-        "http://142.93.169.145:7273",
-        "http://142.93.169.145:7273",
+        "https://chirpitu.live",
+        "https://chirpitu.live",
     ],
     [
         "group i",
